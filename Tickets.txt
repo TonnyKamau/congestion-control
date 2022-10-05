@@ -1,0 +1,96 @@
+-------KCCA Congestion Fee Ticket-------------
+Car plate: kwq97
+Number of Hours: 4
+Congestion Fee: 750
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: yeqw
+Number of Hours: 9
+Congestion Fee: 0
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: kwei
+Number of Hours: 12
+Congestion Fee: 3150
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: wqe
+Number of Hours: 12
+Congestion Fee: 0
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: kjhb
+Number of Hours: 6
+Congestion Fee: 0
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: KJH
+Number of Hours: 5
+Congestion Fee: 1050
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: WER
+Number of Hours: 4
+Congestion Fee: 950
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: QWTE
+Number of Hours: 34
+Congestion Fee: 0
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: 
+Number of Hours: 34
+Congestion Fee: 0
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: qwr
+Number of Hours: 6
+Congestion Fee: 1550
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: qwr
+Number of Hours: 6
+Congestion Fee: 1550
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: qwr
+Number of Hours: 9
+Congestion Fee: 0
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: wqt
+Number of Hours: 4
+Congestion Fee: 0
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: KFC
+Number of Hours: 4
+Congestion Fee: 950
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: KFC
+Number of Hours: 4
+Congestion Fee: 950
+Tip: Travelling with a friend saves money & reduces traffic
+
+-------KCCA Congestion Fee Ticket-------------
+Car plate: KFC
+Number of Hours: 4
+Congestion Fee: 950
+Tip: Travelling with a friend saves money & reduces traffic
+
